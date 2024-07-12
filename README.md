@@ -1,3 +1,12 @@
+# My 3D Portfolio
+
+**Note that I have excluded the assets folder from this repo
+
+The base website looks like this:
+![Uploading website.gif…]()
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
