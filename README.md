@@ -4,6 +4,7 @@
 
 The base website looks like this:
 ![Uploading website.gif…]()
+![image](https://github.com/user-attachments/assets/95713761-3bf8-4e3e-b217-d4f4fc43d62e)
 
 
 
